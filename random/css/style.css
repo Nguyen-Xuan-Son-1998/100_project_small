@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(42, 82, 82);
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;
+}
+.content{
+    text-align: center;
+}
+.content > div{
+    margin: 40px;
+}
+button{
+    background-color: rgb(163, 86, 86);
+    color: #fff;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 20px;
+    border: 0;
+}
+#viewQuote{
+    font-size: 25px;
+}
